@@ -1,1 +1,1 @@
-Hello world
+Function approximations in Differential Dynamic Programming.
